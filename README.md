@@ -1,2 +1,2 @@
-#avs news site
+# avs news site
 html css js used
